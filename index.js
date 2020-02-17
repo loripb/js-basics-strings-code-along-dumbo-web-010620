@@ -1,6 +1,8 @@
 // Write your code in this file!
-let currentUser = 'Grace Hopper'
+let currentUser = 'Grace Hopper';
 
-let welcomeMessage = 'Welcome to Flatbook, '
+let welcomeMessage = 'Welcome to Flatbook, ';
 
-welcomeMessage += currentUser + '!'
+welcomeMessage += currentUser + '!';
+
+let welcomeMessage = 'WELCOME TO FLATBOOK, '
