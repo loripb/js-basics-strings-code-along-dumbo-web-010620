@@ -7,6 +7,6 @@ welcomeMessage += currentUser + '!';
 
 let excitedWelcomeMessage = welcomeMessage.toUpperCase()
 
-let shortGreeting = 'Welcome, '
+let shortGreeting = 'Welcome, ${currentUser.charAt(0)}'
 
 
