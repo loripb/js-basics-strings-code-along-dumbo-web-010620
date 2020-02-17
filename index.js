@@ -7,7 +7,7 @@ welcomeMessage += currentUser + '!';
 
 let excitedWelcomeMessage = 'WELCOME TO FLATBOOK, ';
 
-excitedWelcomeMessage += CurrentUser.toUppercase() + '!'
+excitedWelcomeMessage += toUppercase(currentUser) + '!'
 
 let shortGreeting = 'Welcome, '
 
