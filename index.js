@@ -5,4 +5,4 @@ let welcomeMessage = 'Welcome to Flatbook, ';
 
 welcomeMessage += currentUser + '!';
 
-let welcomeMessage = 'WELCOME TO FLATBOOK, ';
+let exitedWelcomeMessage = 'WELCOME TO FLATBOOK, ';
