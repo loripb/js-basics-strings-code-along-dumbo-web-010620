@@ -11,4 +11,6 @@ let excitedWelcomeMessage = 'WELCOME TO FLATBOOK, ';
 
 excitedWelcomeMessage += excitedCurrentUser + '!'
 
+let shortGreeting = 'Welcome, '
+
 
