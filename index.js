@@ -6,3 +6,5 @@ let welcomeMessage = 'Welcome to Flatbook, ';
 welcomeMessage += currentUser + '!';
 
 let excitedWelcomeMessage = 'WELCOME TO FLATBOOK, ';
+
+excitedWelcomeMessage += currentUser + '!'
